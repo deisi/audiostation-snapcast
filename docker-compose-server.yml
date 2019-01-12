@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  recorder:
+    build:
+      context: .
+      dockerfile: DockerfileServerX86
+    container_name: snap-server
+    image: audiostation/snap-server
