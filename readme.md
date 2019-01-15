@@ -1,5 +1,6 @@
 [![](https://images.microbadger.com/badges/image/audiostation/snapcast.svg)](https://microbadger.com/images/audiostation/snapcast "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/audiostation/snapcast.svg)](https://microbadger.com/images/audiostation/snapcast "Get your own version badge on microbadger.com")
+[![Build Status](https://travis-ci.org/deisi/audiostation-snapcast.svg?branch=master)](https://travis-ci.org/deisi/audiostation-snapcast)
 
 # SnapCast Docker Container
 This is a container for the audiostation project. Documentation here might be wrong.
